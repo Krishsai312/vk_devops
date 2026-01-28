@@ -1,2 +1,2 @@
 #!/bin/bash
-my file-1
+my file
